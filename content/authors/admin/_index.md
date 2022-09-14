@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-Dr. Vasiliki (Vicky) Bikia is a Bioengineering postdoctoral research fellow at the Swiss Federal Institute of Technology in Lausanne. Her research aims to build and deliver clinical and digital tools that enable the non-invasive assessment of cardiovascular health using machine learning.
+Dr. Vasiliki (Vicky) Bikia is a Bioengineering postdoctoral research fellow at the Swiss Federal Institute of Technology in Lausanne, in the Laboratory of Hemodynamics and Cardiovascular Technology. Her research aims to build and deliver clinical and digital tools that enable the non-invasive assessment of cardiovascular health using machine learning.
 
 Dr. Bikia is leading a clinical study to evaluate the performance of a new non-invasive method to monitor major central hemodynamics, such as aortic blood pressure and flow.
 
