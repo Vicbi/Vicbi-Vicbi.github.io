@@ -10,8 +10,10 @@ role: Postdoctoral Research Fellow in Bioengineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Swiss Federal Institute of Technology of Lausanne, Stanford University
-    url: https://www.epfl.ch/labs/lhtc/, https://cardinalkit.stanford.edu/people
+  - name: Swiss Federal Institute of Technology of Lausanne
+    url: https://www.epfl.ch/labs/lhtc/
+  - name: Stanford University
+    url: https://cardinalkit.stanford.edu/people
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
