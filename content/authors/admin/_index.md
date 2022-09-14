@@ -70,8 +70,10 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Vasiliki (Vicky) Bikia is a Bioengineering postdoctoral research fellow at the Swiss Federal Institute of Technology in Lausanne. Her research aims to build and deliver clinical and digital tools that enable the non-invasive assessment of cardiovascular health using machine learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Bikia is leading a clinical study to evaluate the performance of a new non-invasive method to monitor major central hemodynamics, such as aortic blood pressure and flow.
+
+She joined the CardinalKit team with the goal of contributing to the design and improvement of data pipelining as well as performing data analysis in several CardinalKit-based research projects at Stanford.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
