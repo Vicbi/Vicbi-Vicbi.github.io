@@ -72,6 +72,6 @@ Dr. Vasiliki (Vicky) Bikia is a Bioengineering postdoctoral research fellow at t
 
 Dr. Bikia is leading a clinical study to evaluate the performance of a new non-invasive method to monitor major central hemodynamics, such as aortic blood pressure and flow.
 
-She joined the CardinalKit team with the goal of contributing to the design and improvement of data pipelining as well as performing data analysis in several CardinalKit-based research projects at Stanford.
+She is a member of the Stanford Byers Center for Biodesign CardinalKit team with the goal of contributing to the design and improvement of data pipelining as well as performing data analysis in several CardinalKit-based research projects at Stanford.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
